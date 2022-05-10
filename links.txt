@@ -1,0 +1,9 @@
+http://127.0.0.1:8080/
+http://127.0.0.1:8080/index
+http://127.0.0.1:8080/promotion
+http://127.0.0.1:8080/image_mars
+http://127.0.0.1:8080/promotion_image.
+http://127.0.0.1:8080/astronaut_selection
+http://127.0.0.1:8080/results/<nickname>/<int:level>/<float:rating>
+http://127.0.0.1:8080/load_photo
+http://127.0.0.1:8080/carousel
